@@ -15,7 +15,7 @@ public class T33_Recursion {
 
     public static void main(String[] args) {
         // printReverseForLoop(20);
-        printReverseRecursion(10);
+        // printReverseRecursion(10);
         printReverseRecursion(30);
     }
 }
